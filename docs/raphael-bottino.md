@@ -1,9 +1,5 @@
--Raphael Bottino
+#Introduction
 
--Rio de Janeiro
+**Name:** Raphael Bottino
 
--Japonese food
-
--Programming
-
-I should add my favorite color
+**Favorite Color:** Blue
